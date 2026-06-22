@@ -35,16 +35,6 @@ ReactRouterApp/
 └── package.json
 ```
 
-## 실행 방법
-
-```bash
-npm install
-npm install react-router-dom styled-components
-npm run dev
-```
-
-브라우저에서 Vite가 안내하는 주소(기본 `http://localhost:5173`)로 접속합니다.
-
 ## 데모 계정
 
 | 항목 | 값 |
@@ -66,12 +56,3 @@ npm run dev
 /login            → Login
 *                 → NotFound
 ```
-
-## 스크립트
-
-| 명령 | 설명 |
-|------|------|
-| `npm run dev` | 개발 서버 실행 |
-| `npm run build` | 프로덕션 빌드 |
-| `npm run preview` | 빌드 결과 미리보기 |
-| `npm run lint` | ESLint 검사 |
